@@ -1,6 +1,10 @@
 Material for the presentation given at FOSS4G 2019 – *Working with 3D city
  models in Python*
 
+## Tutorial notebook
+
+[https://github.com/balazsdukai/foss4g2019/cjio_tutorial.ipynb](https://github.com/balazsdukai/foss4g2019/cjio_tutorial.ipynb)
+ 
 ## Slides
 [https://balazsdukai.github.io/foss4g2019/index.slides.html](https://balazsdukai.github.io/foss4g2019/index.slides.html)
 
@@ -16,7 +20,7 @@ Semantic 3D city models are one of the cornerstones of the so-called "smart city
 
 # Contents
 
-The Jupyter notebook `cjio_tutorial.ipynb` is the main documents. The slides
+**The Jupyter notebook `cjio_tutorial.ipynb` is the main document.** The slides
  are generated from the notebook and can be [viewed online](https://balazsdukai.github.io/foss4g2019/index.slides.html).
 
 I recommend to run the notebook locally and play around with `cjio` a bit, since not all code is included in the slides. In order to execute the notebook, the easiest if you set up a virtual environment with [Pipenv](https://pypi.org/project/pipenv/). After downloading this repository, navigate into the directory, create a virtual environment, install the packages and activate the virtual environment.
