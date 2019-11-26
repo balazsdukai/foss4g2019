@@ -1,9 +1,13 @@
 Material for the presentation given at FOSS4G 2019 – *Working with 3D city
  models in Python*
 
-### Tutorial notebook [here](https://github.com/balazsdukai/foss4g2019/blob/gh-pages/cjio_tutorial.ipynb)
+### Tutorial notebook [here](https://nbviewer.jupyter.org/github/balazsdukai/foss4g2019/blob/gh-pages/cjio_tutorial.ipynb)
  
 ### Slides [here](https://balazsdukai.github.io/foss4g2019/index.slides.html)
+
+### Recording of the talk [here](https://media.ccc.de/v/bucharest-26-working-with-3d-city-models-in-python)
+
+### Magyar nyelvű diák [itt](https://balazsdukai.github.io/foss4g2019/cjio_tutorial_hu.slides.html)
 
 # Working with 3D city models in Python
 
