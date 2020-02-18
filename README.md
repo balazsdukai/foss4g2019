@@ -1,5 +1,8 @@
 Material for the presentation given at FOSS4G 2019 – *Working with 3D city
  models in Python*
+ 
+[![DOI](https://zenodo.org/badge/204799458.svg)](https://zenodo.org/badge/latestdoi/204799458)
+
 
 ### Tutorial notebook [here](https://nbviewer.jupyter.org/github/balazsdukai/foss4g2019/blob/gh-pages/cjio_tutorial.ipynb)
  
