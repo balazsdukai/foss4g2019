@@ -5,7 +5,7 @@ Material for the presentation given at FOSS4G 2019 – *Working with 3D city
  
 ### Slides [here](https://balazsdukai.github.io/foss4g2019/index.slides.html)
 
-### Recording of the talk [here](https://media.ccc.de/v/bucharest-26-working-with-3d-city-models-in-python)
+### Recording of the talk: [https://doi.org/10.5446/43345](https://doi.org/10.5446/43345)
 
 ### Magyar nyelvű diák [itt](https://balazsdukai.github.io/foss4g2019/cjio_tutorial_hu.slides.html)
 
